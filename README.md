@@ -1,5 +1,7 @@
 # Vue
 
+> under development!
+
  - easy to use
  - consistent learning curve
  - easy and fast integration
@@ -7,10 +9,11 @@
 
 ## Respect the order!
 
- 1. register all global components
- 2. initiate store of states
- 3. register routes
- 4. initiate view model
+ 1. initiate store of states
+ 2. create all global components
+ 3. register components on vue
+ 4. register routes
+ 5. initiate view model
 
 ## Devtools
 
